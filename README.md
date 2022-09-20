@@ -7,10 +7,10 @@
 I am OYH 😃. I am from China
 
 
-## ⚡ Technologies
+## 🧭 Technologies
 Talk to me about
 
-## Hello World!! 🤔
+## 🛸 Hello World!! 
 - 💬 Ask me about anything and everything.
 - 📫 Read my blogs: [OYH Blog](https://imoyh.github.io/)
 - 🎯 Portfolio site: [Portfolio](https://imoyh.github.io/)
