@@ -9,14 +9,6 @@ I am OYH 😃. I am from China
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **HTML, Javascript,CSS,Bootstrap**
-- Backend development using **Flask,Django**
-- Making for **Relational Database Management Systems**
-- Robust full-stack system design implementation
-- Desktop application development using **Flutter**(Still learning)
-- Mobile application development using **Flutter and Kotlin**
-- Creating scalable cloud architecture using **AWS Cloud**
-- Solving Data structure and algorithm questions in **Java and Python**
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
